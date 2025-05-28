@@ -22,3 +22,8 @@ run seed command to insert records : npx sequelize-cli db:seed:all
 
 
 run command to start the project: npm run dev
+
+---------------------------------------------------------------
+
+test the api in postman using : 
+http://localhost:3000/api/products/          ===>   use specified path given in routes
