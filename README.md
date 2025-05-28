@@ -5,6 +5,11 @@ Node express is used for creating api.
 
 -------------------------------------------------------------
 
+In Database product, inventory and Sale are connected.
+Product Id is being used as a foreign key in sales and inventory table.
+
+-------------------------------------------------------------
+
 
 Get a clone of a project.
 Install packages using npm install
